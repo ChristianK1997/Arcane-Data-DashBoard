@@ -1,5 +1,5 @@
 # crypto-trades
-Visualize cryptocurrency trades in real time. See a live demo [here](https://rhammell.github.io/crypto-trades/).
+Visualize cryptocurrency trades in real time.
 
 Trades for various Crypto/USD pairs are displayed on a scrolling timeline, where individual trades are each represented by a circle node. The size of the node is determined by the trade's size relative to the currency's daily trade volume. The color of the node is determined by its order side - green for buy orders, red for sell orders.
 
